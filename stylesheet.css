@@ -1,0 +1,19 @@
+﻿#top {
+background-color: Purple;
+}
+#top h1 {
+color: white;
+font-family: Comic Sans MS, Cursive;
+}
+#batface {
+  height: 20px;
+  width:20px;
+}
+#intro {
+color: purple;
+font-family: Trebuchet MS, sans-serif;
+}
+#intro h1 {
+  font-family: Comic Sans MS, cursive;
+  color: purple;
+}
