@@ -9,3 +9,10 @@ font-family: Comic Sans MS, Cursive;
   height: 20px;
   width:20px;
 }
+#intro h1 {
+  font-family: Comic Sans MS, cursive
+}
+#intro {
+  color: purple;
+  font-family: Trebuchet MS, Sans-serif;
+}
