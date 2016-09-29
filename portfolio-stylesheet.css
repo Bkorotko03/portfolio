@@ -1,1 +1,10 @@
-try
+#top {
+  background-color: purple;
+}
+#top h1{
+  font-family: Comic Sans MS, cursive;
+  color: white;
+}
+#top a{
+  text-decoration: none;
+}
