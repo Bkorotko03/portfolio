@@ -7,6 +7,7 @@ font-family: Comic Sans MS, Cursive;
 }
 #top button{
   Float: right;
+Float: up;
 }
 #batface {
   height: 20px;
