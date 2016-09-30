@@ -1,9 +1,11 @@
 ﻿#top {
 background-color: Purple;
+Height:45px;
 }
 #top h1 {
 color: white;
 font-family: Comic Sans MS, Cursive;
+Width: 350px;
 }
 #top button{
   Float: right;
