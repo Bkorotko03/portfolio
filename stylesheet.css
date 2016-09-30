@@ -5,8 +5,8 @@ background-color: Purple;
 color: white;
 font-family: Comic Sans MS, Cursive;
 }
-#top a{
-  text-decoration: none;
+#top button{
+  Float: right;
 }
 #batface {
   height: 20px;
