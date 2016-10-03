@@ -6,8 +6,7 @@ Height:45px;
 color: white;
 font-family: Comic Sans MS, Cursive;
 }
-#top button{
-  float: up;
+#top a {
 }
 #batface {
   height: 20px;
