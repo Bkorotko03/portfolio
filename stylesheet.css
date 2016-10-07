@@ -7,11 +7,12 @@ color: white;
 font-family: Comic Sans MS, Cursive;
 }
 #top a {
-  float: up;
-}
-#top a h2{
-Color: Purple;
+Color: White;
   font-family: Comic Sans MS, Cursive;
+  text-decoration: none;
+  background-color: Purple;
+  border: 10px double purple;
+  border-radius: 5px;
 }
 #batface {
   height: 20px;
@@ -25,12 +26,13 @@ Color: Purple;
   color: purple;
   font-family: Trebuchet MS, Sans-serif;
 }
-#about h1{
+#about h1 {
+  color: purple;
   font-family: Comic Sans MS, cursive;
 }
-#about p{
+#about p {
   color: purple;
-  font-family: Trebuchet MS, sans-serif;
+  font-family: Trebuchet MS, Sans-Serif;
 }
 #sched h1{
 font-family: Comic Sans MS, cursive;
