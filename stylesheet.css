@@ -6,16 +6,6 @@ Height:45px;
 color: white;
 font-family: Comic Sans MS, Cursive;
 }
-#top a h2 {
-Color: White;
-  font-family: Comic Sans MS, Cursive;
-  text-decoration: none;
-}
-#top a {
-    background-color: Purple;
-  border: 10px double purple;
-  border-radius: 5px;
-}
 #bpmslogo {
   height: 75px;
   width: 75;
