@@ -9,6 +9,7 @@ font-family: Comic Sans MS, Cursive;
 #bpmslogo {
   height: 75px;
   width: 75;
+  float: right;
 }
 #batface {
   height: 20px;
