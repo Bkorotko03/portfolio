@@ -9,6 +9,7 @@ font-family: Comic Sans MS, Cursive;
 #top a h2 {
   color: white;
   background-color: purple;
+  width: 200px;
 }
 #bpmslogo {
   height: 75px;
