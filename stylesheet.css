@@ -1,4 +1,4 @@
-﻿#top {
+#top {
 background-color: Purple;
 Height:45px;
 }
@@ -44,6 +44,11 @@ color: purple;
 #sched p{
   color: purple;
   font-family: TRebuchet MS, sans-serif;
+}
+
+#sched img{
+  max-width:100%;
+  max-height: 100%;
 }
 
 
