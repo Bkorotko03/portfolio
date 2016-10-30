@@ -53,17 +53,15 @@ color: purple;
   max-width:100%;
   max-height: 100%;
 }
-#favorite {
-  h1{
+#favorite h1 {
     color: purple;
     font-family: Comic Sans MS, cursive;
-  }
-  p {
+}
+#favorite p {
     color: purple;
     font-family: Trebuchet MS, sans-serif;
-  }
-  ul {
-    color: purple;
-    font-family: Trebuchet MS, sans-serif;
-  }
+}
+#favorite ul {
+  color: purple;
+  font-family: Trebuchet MS, sans-serif;
 }
