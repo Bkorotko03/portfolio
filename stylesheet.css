@@ -13,10 +13,10 @@ font-family: Comic Sans MS, Cursive;
   font-family: Comic Sans MS, cursive;
 }
 #bpmslogo {
-  height: 175px;
-  width: 175px;
-  display: block;
-  margin: 0 auto;
+  width: auto;
+  height: auto;
+  max-width:100%;
+  max-height: 100%;
 }
 #face {
   height: 20px;
