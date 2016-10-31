@@ -1,12 +1,17 @@
 #top {
   background-color: purple;
 }
+#top h1{
+  color: white;
+  font-family: Comic Sans MS, cursive;
+}
 #top h2{
   font-family: Comic Sans MS, cursive;
   color: white;
 }
 #top a{
   text-decoration: none;
+  width: 120px;
 }
 #links h2{
   font-family: Comic Sans MS, cursive;
