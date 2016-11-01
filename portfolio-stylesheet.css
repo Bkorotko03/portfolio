@@ -13,6 +13,10 @@
   text-decoration: none;
   width: 120px;
 }
+#links{
+  height: 50px;
+  width: 100%;
+}
 #links h2{
   font-family: Comic Sans MS, cursive;
   color: white;
