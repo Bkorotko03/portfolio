@@ -21,7 +21,10 @@
   font-family: Comic Sans MS, cursive;
   color: white;
   background-color: purple;
-  width: 100px;
+  width: 110px;
+}
+#links a{
+  width: 110px;
 }
 #intro h1{
 color: purple;
