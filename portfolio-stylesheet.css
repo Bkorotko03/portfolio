@@ -1,15 +1,15 @@
 #top {
   background-color: purple;
 }
-#home {
+#top #home {
   width: 150px;
   background-color: purple;
 }
-#home h2 {
+#top #home h2 {
     color: white;
   font-family: Comic Sans MS, cursive;
 }
-#home a {
+#top #home a {
   text-decoration: none;
   background-color: purple;
 }
