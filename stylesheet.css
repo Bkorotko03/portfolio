@@ -2,6 +2,9 @@
 background-color: Purple;
 Height:45px;
 }
+#top #portfolio-link {
+  width: 150px;
+}
 #top h1 {
 color: white;
 font-family: Comic Sans MS, Cursive;
