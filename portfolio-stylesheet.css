@@ -3,6 +3,14 @@
 }
 #home {
   width: 150px;
+  background-color: purple;
+}
+#home h2 {
+    color: white;
+  font-family: Comic Sans MS, cursive;
+}
+#home a {
+  text-decoration: none;
 }
 #top h1{
   color: white;
