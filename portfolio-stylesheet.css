@@ -37,6 +37,7 @@
 }
 #links a{
   width: 110px;
+  text-decoration: none;
 }
 #intro h1{
 color: purple;
