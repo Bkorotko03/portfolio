@@ -15,9 +15,6 @@ font-family: Comic Sans MS, Cursive;
   width: 100px;
   font-family: Comic Sans MS, cursive;
 }
-#flesh {
-  float: center;
-}
 #bpmslogo {
   width: auto;
   height: auto;
@@ -31,10 +28,13 @@ font-family: Comic Sans MS, Cursive;
   width:20px;
 }
 #intro h1 {
+  margin-left: auto;
+    margin-right: auto;
+    width: 6em
   font-family: Comic Sans MS, cursive;
   color: purple;
 }
-#intro {
+#intro p {
   margin-left: auto;
     margin-right: auto;
     width: 6em
