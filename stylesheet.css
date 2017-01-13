@@ -35,6 +35,9 @@ font-family: Comic Sans MS, Cursive;
   color: purple;
 }
 #intro {
+  margin-left: auto;
+    margin-right: auto;
+    width: 6em
   color: purple;
   font-family: Trebuchet MS, Sans-serif;
 }
