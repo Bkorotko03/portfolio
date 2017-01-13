@@ -2,51 +2,61 @@
 background-color: Purple;
 Height:45px;
 }
+
 #top #portfolio-link {
   width: 150px;
 }
+
 #top h1 {
 color: white;
 font-family: Comic Sans MS, Cursive;
 }
+
 #top a h2 {
   color: white;
   background-color: purple;
   width: 100px;
   font-family: Comic Sans MS, cursive;
 }
+
 #bpmslogo {
   width: auto;
   height: auto;
   max-width:200px;
   max-height: 200px;
   float: right;
-
 }
+
 #face {
   height: 20px;
   width:20px;
 }
+
 #intro h1 {
   font-family: Comic Sans MS, cursive;
   color: purple;
 }
+
 #intro {
   color: purple;
   font-family: Trebuchet MS, Sans-serif;
 }
+
 #about h1 {
   color: purple;
   font-family: Comic Sans MS, cursive;
 }
+
 #about p {
   color: purple;
   font-family: Trebuchet MS, Sans-Serif;
 }
+
 #sched h1{
 font-family: Comic Sans MS, cursive;
 color: purple;
 }
+
 #sched p{
   color: purple;
   font-family: Trebuchet MS, sans-serif;
@@ -58,14 +68,17 @@ color: purple;
   max-width:100%;
   max-height: 100%;
 }
+
 #favorite h1 {
     color: purple;
     font-family: Comic Sans MS, cursive;
 }
+
 #favorite p {
     color: purple;
     font-family: Trebuchet MS, sans-serif;
 }
+
 #favorite ul {
   color: purple;
   font-family: Trebuchet MS, sans-serif;
