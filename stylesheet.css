@@ -15,6 +15,9 @@ font-family: Comic Sans MS, Cursive;
   width: 100px;
   font-family: Comic Sans MS, cursive;
 }
+#flesh {
+  float: center;
+}
 #bpmslogo {
   width: auto;
   height: auto;
