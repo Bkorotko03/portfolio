@@ -8,6 +8,7 @@ Height:45px;
 }
 
 #top h1 {
+  text-align: center;
   align-content: center;
 color: white;
 font-family: Comic Sans MS, Cursive;
@@ -21,6 +22,7 @@ font-family: Comic Sans MS, Cursive;
 }
 
 #top a h2 {
+  text-align: center;
   color: white;
   background-color: purple;
   width: 100px;
@@ -41,6 +43,7 @@ font-family: Comic Sans MS, Cursive;
 }
 
 #intro h1 {
+  text-align: center;
   align-content: center;
   font-family: Comic Sans MS, cursive;
   color: purple;
@@ -61,6 +64,7 @@ font-family: Comic Sans MS, Cursive;
 }
 
 #about h1 {
+  text-align: center;
   align-content: center;
   color: purple;
   font-family: Comic Sans MS, cursive;
@@ -106,6 +110,7 @@ color: purple;
 }
 
 #favorite h1 {
+  text-align: center;
   align-content: center;
     color: purple;
     font-family: Comic Sans MS, cursive;
@@ -118,6 +123,7 @@ color: purple;
 }
 
 #favorite ul {
+  text-align: center;
   align-content: center;
   color: purple;
   font-family: Trebuchet MS, sans-serif;
