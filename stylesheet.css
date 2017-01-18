@@ -62,12 +62,14 @@ font-family: Comic Sans MS, Cursive;
 }
 
 #sched {
+  align-content: center;
   display: block;
   margin-left: auto;
     margin-right: auto;
 }
 
 #sched h1{
+  align-content: center;
     text-align: center;
     display: block;
     margin-left: auto;
